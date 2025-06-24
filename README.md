@@ -1,5 +1,5 @@
 # PRINCE
-# Hi there, I'm pRINCE Takyi Amoako! 👋
+# Hi there, I'm Prince Takyi Amoako! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
