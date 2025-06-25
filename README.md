@@ -1,17 +1,34 @@
-# PRINCE
-# Hi there, I'm Prince Takyi Amoako! 👋
+# Hi, I'm Prince Takyi Amoako!
 
-![Banner Image](your_banner_image_url_here)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Prince+%F0%9F%91%8B;Front-end+Developer+%7C+Digital+Marketer;Building+impactful+web+%26+mobile+apps" />
+</p>
 
-## About Me 🚀
+---
 
-I'm a passionate **Junior Front End Developer** with experience in **Html, Css, Javascript, React, Tailwindcss, & Node.js**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+## 👨‍💻 About Me✨
+
+I am a passionate Front-End Developer and Digital Marketer currently enrolled in the **ALX Software Engineering program**, focusing on **Front-End Pro Dev** and **AI for Developers**.
+
+✨ I aim to contribute to impactful projects that leverage cutting-edge technologies to solve real-world problems and drive business success.
+
+💡 My main interest lies in developing the front-end aspects of web and mobile applications, creating intuitive, performant, and user-friendly digital experiences.
 
 - 🌱 Currently learning: **Reactnative, Typescript, Next.js**
 - 🔭 Working on: **I'm currently working on an Airbnb platform**
 - 🌍 Languages: **[i am proficient in Html, Css, Javascript, React, Tailwindcss, & Node.js   and i speak english languages**
 - 📫 How to reach me: **you can reach me via Princetakyijnr@gmail.com**
 - ⚡ Fun fact: **i'm a rare combo of analytical thinker and creative doer. As a digital marketer who codes, designs, and strategizes, I don’t just dream ideas, I build them.  I thrive at the intersection of logic and imagination**
+
+- ## 🚀 Tech Stack
+
+- 🌐 Languages: HTML, CSS, JavaScript, JSX
+- ⚛️ Frameworks: React.js, Tailwind CSS, Node.js
+- 🧠 AI Tools: OpenAI APIs, Claude.ai, etc.  AI for Dev tools
+- 🛠️ Tools: Git, GitHub, VS Code, Figma, Canva, etc
+- 📈 Marketing Tools: Google Analytics, SEO Tools, WordPress, Mailchimp
+
+---
 
 ## My Skills 🧠
 
@@ -20,27 +37,50 @@ I'm a passionate **Junior Front End Developer** with experience in **Html, Css, 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
-## Featured Projects 💻
+## 💬 Let’s Connect!
 
-### [Project 1 Title](project_1_link)
+📫 Reach me at:
 
-![Project 1 Screenshot](project_1_screenshot_url)
+- [LinkedIn](https://www.linkedin.com/in/prince-takyi-amoako-33ba02256/)
+- [Twitter](https://x.com/Princetakyijnr)
+- 📧[Princetakyijnr@gmail.com]
+- 🌐[https://princetechportfolio.framer.wiki/]
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+---
 
-### [Project 2 Title](project_2_link)
+## 🧠 Currently Learning
 
-![Project 2 Screenshot](project_2_screenshot_url)
+- 🚀 Advanced Frontend Architectures
+- 🧩 Building Accessible Interfaces (a11y)
+- 🤖 Prompt Engineering & AI-Driven UX
+- 🌱 Scalable digital marketing funnels using data-driven techniques
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+---
 
-## Get in Touch 📬
+## 🤝 Open to Opportunities
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+> I am open to internships, freelance roles, and collaborations in front-end engineering, creative web experiences, and AI-enhanced applications.
 
+---
+
+## 🧩 Fun Fact
+
+> As a Visual-ESTJ learner, I thrive in structured environments and bring leadership, vision, and execution into every line of code and campaign I build.
+
+---
+
+## 📌 Quote that Drives Me
+
+> "The best way to predict the future is to invent it." – Alan Kay
+
+---
+
+✨ *Thanks for stopping by! Feel free to explore my repositories or connect with me for collaborations.*
 
