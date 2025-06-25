@@ -14,11 +14,17 @@ I am a passionate Front-End Developer and Digital Marketer currently enrolled in
 
 💡 My main interest lies in developing the front-end aspects of web and mobile applications, creating intuitive, performant, and user-friendly digital experiences.
 
-- 🌱 Currently learning: **Reactnative, Typescript, Next.js**
-- 🔭 Working on: **I'm currently working on an Airbnb platform**
-- 🌍 Languages: **[i am proficient in Html, Css, Javascript, React, Tailwindcss, & Node.js   and i speak english languages**
+- ## 🧠 Currently Learning
+
+- 🚀 Advanced Frontend Architectures
+- 🧩 Building Accessible Interfaces (a11y)
+- 🤖 Prompt Engineering & AI-Driven UX
+- 🌱 Scalable digital marketing funnels using data-driven techniques
+
+---
+
+- 🌍 Languages: **i am proficient in Html, Css, Javascript, React, Tailwindcss, & Node.js**   **And i speak english languages**
 - 📫 How to reach me: **you can reach me via Princetakyijnr@gmail.com**
-- ⚡ Fun fact: **i'm a rare combo of analytical thinker and creative doer. As a digital marketer who codes, designs, and strategizes, I don’t just dream ideas, I build them.  I thrive at the intersection of logic and imagination**
 
 - ## 🚀 Tech Stack
 
@@ -52,15 +58,6 @@ I am a passionate Front-End Developer and Digital Marketer currently enrolled in
 - [Twitter](https://x.com/Princetakyijnr)
 - 📧[Princetakyijnr@gmail.com]
 - 🌐[https://princetechportfolio.framer.wiki/]
-
----
-
-## 🧠 Currently Learning
-
-- 🚀 Advanced Frontend Architectures
-- 🧩 Building Accessible Interfaces (a11y)
-- 🤖 Prompt Engineering & AI-Driven UX
-- 🌱 Scalable digital marketing funnels using data-driven techniques
 
 ---
 
